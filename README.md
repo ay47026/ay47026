@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**ay47026/ay47026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Drupal & Laravel Developer
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- PHP
+- Laravel
+- Drupal
+- Node.js
+- React.js
+- ReactNative.js
+- PostgreSQL, 
+- MySQL
+- AWS
+- Docker, Ddev
+- Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+- Generative AI
+- System Design
+- Drupal 11
+
+## 🏆 Certifications
+- Generative AI for Software Development Specialization
+https://coursera.org/share/62b97dde074327d61690d584d25359fa
+
+
+## 📫 Connect With Me
+- LinkedIn -https://www.linkedin.com/in/abhishek-yadav-3777551b2/
+- Drupal.org -https://www.drupal.org/user/3708024
