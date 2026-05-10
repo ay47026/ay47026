@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
 
-Full Stack Developer | Drupal & Laravel Developer
+Senior Fullstack developer  | Technical Lead | Scalable Web Architect | Solo Developer | PHP (Drupal & Laravel), Node.js, TypeScript | AWS | AI-Driven Development (Cursor, Claude)
 
 ## 🚀 Tech Stack
 - PHP
